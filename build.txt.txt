@@ -1,0 +1,1 @@
+& "C:\Users\Jean-Marc Cherfils\AppData\Roaming\Python\Python38\Scripts\pyinstaller.exe" D:\Alfred\alfred.py --onefile --windowed --icon=D:\Alfred\img\icon.ico
